@@ -1,4 +1,5 @@
-# Hi 👋 I'm Aaryan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aaryan!;CS+%2B+Cybersecurity+@+UMass+Amherst;Penetration+Testing+Enthusiast;Always+building+something+new)](https://github.com/aaryananjna)
+
 
 ## 💫 About Me
 - 🎓 CS + Cybersecurity @ UMass Amherst  
