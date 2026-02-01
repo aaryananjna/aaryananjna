@@ -1,5 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aaryan!;CS+%2B+Cybersecurity+@+UMass+Amherst;Penetration+Testing+Enthusiast;Always+building+something+new)](https://github.com/aaryananjna)
+[![Typing SVG](https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=32
+&duration=2500
+&pause=800
+&color=00F5D4
+&background=00000000
+&center=true
+&vCenter=true
+&width=750
+&lines=Hey%2C+I'm+Aaryan+👋;CS+%2B+Cybersecurity+@+UMass+Amherst;Penetration+Testing+Enthusiast;Breaking+and+Securing+Web+Apps;Lifting+Weights+%26+Shipping+Code)
+](https://github.com/aaryananjna)
 
+---
 
 ## 💫 About Me
 - 🎓 CS + Cybersecurity @ UMass Amherst  
@@ -12,9 +24,13 @@
 - 🌐 Building side projects with Python, TypeScript, and JS
 
 ## 🌟 Featured Projects
-- 🧑‍🍳 [HackMIT-Project](https://github.com/aaryananjna/HackMIT-Project) – Cooking assistant built for HackMIT (Python)  
-- 🎬 [netflix clone](https://github.com/aaryananjna/netflix) – Netflix-style frontend clone (JavaScript)  
-- 🎓 [studydao-ai](https://github.com/aaryananjna/studydao-ai) – AI learning platform with NFTs on Solana (TypeScript)  
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| 🧑‍🍳 [HackMIT-Project](https://github.com/aaryananjna/HackMIT-Project) | Cooking assistant built for HackMIT | Python |
+| 🎬 [Netflix Clone](https://github.com/aaryananjna/netflix) | Netflix-style frontend clone | JavaScript |
+| 🎓 [studydao-ai](https://github.com/aaryananjna/studydao-ai) | AI learning platform with NFTs on Solana | TypeScript |
+
 
 ## 🛠 Tech Stack
 
@@ -25,8 +41,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 🏞️ Beyond Security
+
+- I love to hit the gym consistently 
+- Keen on reading and journaling
+- Daily meditations to keep myself from crashing out
+- Sign me up for casual games of volleyball, cricket, and tennis
 
 ## 🌐 Connect
-- 📫 Email: _anjna.aaryan@gmail.com_  
-- 💼 LinkedIn: _https://www.linkedin.com/in/aaryananjna/_  
-- 📷 Instagram (optional): _your-handle-here_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Anjna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryananjna/)
+[![Email](https://img.shields.io/badge/Email-anjna.aaryan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjna.aaryan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aaryananjna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryananjna)
+[![Instagram](https://img.shields.io/badge/Instagram-yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryananjna)
+
