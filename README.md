@@ -1,22 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com
-?font=Fira+Code
-&size=32
-&duration=2500
-&pause=800
-&color=00F5D4
-&background=00000000
-&center=true
-&vCenter=true
-&width=750
-&lines=Hey%2C+I'm+Aaryan+👋;CS+%2B+Cybersecurity+@+UMass+Amherst;Penetration+Testing+Enthusiast;Breaking+and+Securing+Web+Apps;Lifting+Weights+%26+Shipping+Code)
-](https://github.com/aaryananjna)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5D4&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aaryan+👋;CS+%2B+Cybersecurity+%40+UMass+Amherst;Penetration+Testing+Enthusiast;Breaking+and+Securing+Web+Apps;Lifting+Weights+%26+Shipping+Code)](https://github.com/aaryananjna)
 
 ---
 
 ## 💫 About Me
 - 🎓 CS + Cybersecurity @ UMass Amherst  
-- 🛡️ Interested in penetration testing, defensive security, and secure software  
-- 🧠 Also into English lit, fitness, and building cool side projects
+- 🛡️ Interested in penetration testing, ethical hacking and securing software  
+- 🧠 Also into fitness, and building cool side projects
 
 ## 🚀 What I'm Working On
 - 🔐 Learning more about web app security & bug hunting  
