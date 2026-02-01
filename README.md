@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5D4&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aaryan+👋;CS+%2B+Cybersecurity+%40+UMass+Amherst;Penetration+Testing+Enthusiast;Breaking+and+Securing+Web+Apps;Lifting+Weights+%26+Shipping+Code)](https://github.com/aaryananjna)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5D4&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aaryan+👋;CS+%2B+Cybersecurity+%40+UMass+Amherst;Penetration+Testing+Enthusiast;Breaking+and+Securing+Web+Apps;Lifting+Weights+%26+Creating+Projects)](https://github.com/aaryananjna)
 
 ---
 
