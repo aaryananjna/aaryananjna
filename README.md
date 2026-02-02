@@ -42,5 +42,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Anjna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryananjna/)
 [![Email](https://img.shields.io/badge/Email-anjna.aaryan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjna.aaryan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aaryananjna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryananjna)
-[![Instagram](https://img.shields.io/badge/Instagram-yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryananjna)
+[![Instagram](https://img.shields.io/badge/Instagram-aaryan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryananjna)
 
