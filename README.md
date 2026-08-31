@@ -42,11 +42,11 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryananjna&show_icons=true&theme=neon&hide_border=false&count_private=false" />
+
   <br>
   <img height="180em" src="https://streak-stats.demolab.com/?user=aaryananjna&theme=neon&hide_border=false" />
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryananjna&layout=compact&theme=neon&hide_border=false" />
+
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
