@@ -1,18 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5D4&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aaryan+👋;CS+w/+cyber+focus+%40+UMass+Amherst;AI+Security+Enthusiast;Fitness%2C+Dance%2C+%26+Photography)](https://github.com/aaryananjna)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaryananjna/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aaryananjna">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anjna.aaryan@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aaryananjna">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/aaryananjna/"><img src="https://img.shields.io/badge/LinkedIn-Aaryan%20Anjna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:anjna.aaryan@gmail.com"><img src="https://img.shields.io/badge/Email-anjna.aaryan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://github.com/aaryananjna"><img src="https://img.shields.io/badge/GitHub-aaryananjna-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://instagram.com/aaryananjna"><img src="https://img.shields.io/badge/Instagram-aaryan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 # 💫 About Me:
@@ -43,7 +32,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aaryananjna&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryananjna&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://streak-stats.demolab.com/?user=aaryananjna&theme=neon&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryananjna&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -66,5 +57,13 @@
 - Daily meditations to keep myself from crashing out
 - Sign me up for casual games of volleyball, cricket, and tennis
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aaryananjna&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aaryananjna&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aaryananjna&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
